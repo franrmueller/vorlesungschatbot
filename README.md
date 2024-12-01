@@ -1,1 +1,1 @@
-GenAi powered agent for educational websites.
+GenAI application for educational websites.
